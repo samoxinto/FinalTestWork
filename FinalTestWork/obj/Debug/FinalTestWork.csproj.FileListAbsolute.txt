@@ -1,0 +1,6 @@
+C:\Users\UserAsup20\Source\Repos\FinalTestWork\FinalTestWork\bin\Debug\FinalTestWork.exe
+C:\Users\UserAsup20\Source\Repos\FinalTestWork\FinalTestWork\bin\Debug\FinalTestWork.pdb
+C:\Users\UserAsup20\Source\Repos\FinalTestWork\FinalTestWork\obj\Debug\FinalTestWork.csproj.AssemblyReference.cache
+C:\Users\UserAsup20\Source\Repos\FinalTestWork\FinalTestWork\obj\Debug\FinalTestWork.csproj.CoreCompileInputs.cache
+C:\Users\UserAsup20\Source\Repos\FinalTestWork\FinalTestWork\obj\Debug\FinalTestWork.exe
+C:\Users\UserAsup20\Source\Repos\FinalTestWork\FinalTestWork\obj\Debug\FinalTestWork.pdb
